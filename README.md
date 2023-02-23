@@ -5,4 +5,4 @@
 4. Связать удаленный репозиторий с локальным
 Добавить удаленный репозиторий к проекту:
 
-git remote add <repo name> <url-adress repo>
+git remote adasdadd <repo name> <url-adress repo>dasdadad
